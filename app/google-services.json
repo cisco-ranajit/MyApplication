@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537333370626",
+    "firebase_url": "https://myapplication-72c0a-default-rtdb.firebaseio.com",
+    "project_id": "myapplication-72c0a",
+    "storage_bucket": "myapplication-72c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537333370626:android:0d0352b8cc3e80a864bc1b",
+        "android_client_info": {
+          "package_name": "com.ranajit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537333370626-g37atbccsrno7su07uov4vclhkd3peof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4qaaEUfu1zsfHiKcfr8jul_Hng50FA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537333370626-g37atbccsrno7su07uov4vclhkd3peof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
